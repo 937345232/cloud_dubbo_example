@@ -22,7 +22,7 @@
     <properties>
         <java.version>1.8</java.version>
     </properties>
-    <dependencyManagement>
+
 
 
     <dependencies>
@@ -63,7 +63,7 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-    </dependencyManagement>
+
 
     <build>
         <plugins>
