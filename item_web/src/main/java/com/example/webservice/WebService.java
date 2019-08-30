@@ -1,13 +1,13 @@
-package com.example.cloud_dubbo_example;
+package com.example.webservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CloudDubboExampleApplication {
+public class WebService {
 
     public static void main(String[] args) {
-        SpringApplication.run(CloudDubboExampleApplication.class, args);
+        SpringApplication.run(WebService.class, args);
     }
 
 }
